@@ -1,3 +1,60 @@
+本网页的结构:
+html
+	-body
+		-div.wrapper	
+			-h1
+			-div.content
+			-table#giftList
+				-tr
+					-th
+					-th
+					-th
+					-th
+				-tr.gift#gift1
+					-td
+						-span.excitingNote
+					-td
+					-td
+					-td
+						-img
+				
+				-tr.gift#gift2
+					-td
+						-span.excitingNote
+					-td
+					-td
+					-td
+						-img
+				-tr.gift#gift3
+					-td
+						-span.excitingNote
+					-td
+					-td
+					-td
+						-img
+				-tr.gift#gift4
+					-td
+						-span.excitingNote
+					-td
+					-td
+					-td
+						-img
+				-tr.gift#gift5
+					-td
+						-span.excitingNote
+					-td
+					-td
+					-td
+						-img
+				-tr.gift#gift6
+					-td
+						-span.excitingNote
+					-td
+					-td
+					-td
+						-img
+			-div.footer
+
 
 <html>
 <head>

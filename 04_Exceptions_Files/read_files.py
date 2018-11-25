@@ -25,7 +25,7 @@ file.close()
 # return a list in which each element is a line in the file
 file = open("filename.txt", "r")
 print(file.readlines())
-file.close
+file.close()
 
 # use for loop
 
@@ -33,4 +33,4 @@ file = open("filename.txt", "r")
 #print(len(file.readlines()))
 for line in file:
 	print(line)
-file.close
+file.close()

@@ -19,6 +19,7 @@ print(empty_list)
 # Lists can also be nested within other lists
 number = 3
 things = ["string", 0, [1, 2, number], 4.56, [7, 8, [9, 10]]]
+print(things)
 print(things[0])
 print(things[0][0])
 print(things[1])

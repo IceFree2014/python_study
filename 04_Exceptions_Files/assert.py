@@ -4,7 +4,7 @@
 # when you have finished testing the program.
 # Assertions are carried out through use of the "assert" statement.
 
-# An expression is tested, and if the result comes up false, an exception
+# An expression is tested, and if the result comes up "false", an exception
 # is raised.
 
 print(1)
